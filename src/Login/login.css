@@ -1,0 +1,223 @@
+.img{
+    background-image: bgimg1;
+
+}
+
+.img-over{
+    position:absolute;
+    top:0;
+    left:0;
+    bottom:0px;
+    width: 100%;
+    
+    }
+.log
+{
+    color: aliceblue;
+    position: absolute;
+    width: 246px;
+    height: 70px;
+    left: 42%;
+    top: 60px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 73px;
+    text-align: center;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); 
+}
+.in{
+    position:absolute;
+    width: 246px;
+    height: 70px;
+    left: 45%;
+    top: 60px;
+    color: #FB4B00;    ;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 73px;
+    text-align: center;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.email{
+position: absolute;
+width: 54px;
+height: 5%;
+left: 40%;
+top: 230px;
+color: white;
+font-family: 'Inter';
+font-style: italic;
+font-weight: 100;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.inputemail{
+position: absolute;
+width: 173px;
+height: 31px;
+left: 45%;
+top: 225px;
+border-radius: 5px;
+}
+.password{
+    position: absolute;
+    width: 54px;
+    height: 24px;
+    left: 38%;
+    top: 285px;
+    color: white;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.inputpass{
+
+position: absolute;
+width: 173px;
+height: 31px;
+left: 45%;
+top: 280px;
+border-radius: 5px;
+}
+.ckbox{
+position: absolute;
+width: 16px;
+height: 16px;
+left: 42%;
+top: 348px;
+}
+.clk{
+    position: absolute;
+    width: 228px;
+    height: 16px;
+    left: 44%;
+    top: 350px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 15px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #FF4D00;
+}
+.sub{
+position: absolute;
+width: 90px;
+height: 31px;
+left: 48%;
+top: 400px;
+}
+.cir1{
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 93%;
+    top: 1%;
+}
+.cir2{
+    background-color:beige;
+    border-radius: 50%;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 91%;
+    top: 10%;
+
+}
+.cir3{
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 93%;
+    top: 20%;
+}
+.cir4{
+    background-color:beige;
+    border-radius: 50%;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 91%;
+    top: 30%;
+}
+.cir5{
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 93%;
+    top: 40%;
+}
+.cir6{
+    background-color:beige;
+    border-radius: 50%;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 91%;
+    top: 50%;
+}
+.cir7{
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 93%;
+    top: 60%;
+}
+.cir8{
+    background-color:beige;
+    border-radius: 50%;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 91%;
+    top: 70%;
+}
+.cir9{
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 93%;
+    top: 80%;
+}
+.cir10{
+    background-color:beige;
+    border-radius: 50%;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 91%;
+    top: 90%;
+}
+.img1
+{
+    top: 1%;
+    height: 75px;
+    width: 60px;
+    align-items: flex-end;
+}
